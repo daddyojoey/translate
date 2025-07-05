@@ -1,4 +1,4 @@
-# Machine Translation Demo
+# Multilingual MT with Streamlit
 
 A **Streamlit-based translation app** that leverages **Google Translate** to translate user-input text into **Malayalam, Hindi, or Tamil**.
 
